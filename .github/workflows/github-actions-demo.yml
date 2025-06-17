@@ -6,8 +6,7 @@ on:
     branches:
       - main
     paths:
-      - 'labs/**'
-      
+      - 'labs/**'      
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
